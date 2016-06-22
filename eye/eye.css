@@ -1,0 +1,28 @@
+.face{
+    margin: 0 auto;
+    height: 300px;
+    width: 300px;
+    border: 3px solid black;
+    border-radius: 150px;
+}
+.left,.right{
+    height: 70px;
+    width: 70px;
+    border: 2px solid black;
+    border-radius: 35px;
+    float:left;
+    margin-top: 80px;margin-left: 15px;
+position: relative;
+}
+.right{
+    margin-left: 80px;
+}
+.left_ball,.right_ball{
+    height:30px;
+    width:30px;
+    background:black;
+    border-radius: 15px;
+position: absolute;
+    margin: 20px;
+
+}
