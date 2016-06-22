@@ -1,0 +1,10 @@
+#menu{
+    display:none;
+}
+.lianjie{
+    text-decoration: none;
+    
+}
+.lianjie:hover{
+    color: darkred;
+}
